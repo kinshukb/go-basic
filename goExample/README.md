@@ -1,11 +1,3 @@
-Hi there,
-It was exactly around 2.6 years back (but still my relevant experience is 1.5 years in go) in June 2018, when I joined my first job as a Software Engineer, I was introduced to GO.
-After a day or two of reading docs, learning the languages' basics I jumped into implementing some coding examples to get a better understading.
-
-This might help programmers at beginner level, I've given some comparisions to other languages and how those are achieved in go, there are examples with comments to help understand the concepts and programming paradigm - the go way.
-Although these can't be compared to idiomatic go, which is the ideal way to code in go but it can help at crucial points where newbies stuck, read comments!
-
-First Impressions of Go:
 Go is a fast, object oriented language (It has some features you will often see in object oriented programming languages, and other features you will often see in functional programming languages, but I think ultimately it counts as a procedural language. It's basically along the same lines as C, but a bit more higher level and with some more modern language concepts built in from the beginning.)
 It is built on top of c,
 Features like concurrency, polymorphism, garbage collection are supported internally by the go-runtime.
