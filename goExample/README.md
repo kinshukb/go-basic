@@ -1,5 +1,5 @@
 Hi there,
-It was exactly around 2.6 years back in June 2018, when I joined my first job as a Software Engineer, I was introduced to GO.
+It was exactly around 2.6 years back (but still my relevant experience is 1.5 years in go) in June 2018, when I joined my first job as a Software Engineer, I was introduced to GO.
 After a day or two of reading docs, learning the languages' basics I jumped into implementing some coding examples to get a better understading.
 
 This might help programmers at beginner level, I've given some comparisions to other languages and how those are achieved in go, there are examples with comments to help understand the concepts and programming paradigm - the go way.
